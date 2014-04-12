@@ -1,0 +1,22 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800);
+
+.center {
+	text-align: center;
+}
+
+.navbar-default {
+	background: #fff;
+}
+#main-feature {
+	background: #B2C4DB;
+}
+#main-feature h1 {
+	text-transform: uppercase;
+	margin-bottom: 40px;
+	font-size: 98px;
+	color: #fff;
+}
+#hello .btn-default {
+	border: 1px solid #FF3B47;
+	color: #3A3943;
+}
